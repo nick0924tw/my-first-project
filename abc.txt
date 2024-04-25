@@ -1,5 +1,1 @@
 what is going on rn ???
-use "git checkout <branch name> " to switch to diff branches
-then " git add <file name> " to choose a file in the branch 
-" git commit -m <file name> " to save changes
-final step would be using "git push --set-upstream origin <branch name> " to update changes
