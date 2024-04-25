@@ -1,1 +1,13 @@
 what is going on rn ???
+first commit
+yeah
+Create and checkout to a new branch from your current commit: git checkout -b [branchname]
+Then, push the new branch up to the remote: git push -u origin [branchname]
+
+git status: Always a good idea, this command shows you what branch you're on, what files are in the working or 
+staging directory, and any other important information.
+
+use "git checkout <branch name> " to switch to diff branches
+then " git add <file name> " to choose a file in the branch 
+" git commit -m <file name> " to save changes
+final step would be using "git push --set-upstream origin <branch name> " to update changes
